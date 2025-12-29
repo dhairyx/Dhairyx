@@ -1,0 +1,7 @@
+{
+  "name": "Francais",
+  "description": "An AI-powered French tutor focusing on A2-B2 vocabulary, nuance (formal/slang), and authentic pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
